@@ -1,0 +1,10 @@
+{
+    "project_name": "Python Base Project Template",
+    "project_module_name": "python_base_project_template",
+    "author_name": "Serghei Diulgherov",
+    "version": "0.0.0-dev0",
+    "description": "A base Python project template.",
+    "_copy_without_render": [
+        ".pylintrc"
+    ]
+}
