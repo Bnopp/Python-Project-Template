@@ -9,7 +9,7 @@ def main() -> None:
     """
     Main entry point for the application.
     """
-    print(f"template_project - Version {config.get_version()}")
+    print(f"{{ cookiecutter.project_name }} - Version {config.get_version()}")
 
 
 if __name__ == '__main__':
