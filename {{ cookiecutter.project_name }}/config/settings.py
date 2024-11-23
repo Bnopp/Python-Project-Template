@@ -1,7 +1,7 @@
 import os
 import json
 import logging
-from {{ cookiecutter.project_name }}.version import __version__
+from {{ cookiecutter.project_module_name }}.version import __version__
 
 logger = logging.getLogger(__name__)
 
